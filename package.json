@@ -1,0 +1,20 @@
+{
+  "name": "node-site",
+  "version": "1.0.0",
+  "description": "Node site course with scotch.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:adrbin42/adrienne_node-site.git"
+  },
+  "keywords": [
+    "node",
+    "site",
+    "scotch.io"
+  ],
+  "author": "Adrienne Bing",
+  "license": "ISC"
+}
